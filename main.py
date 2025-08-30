@@ -7,7 +7,7 @@ from aiogram.filters import Command
 
 # 🔑 Tokenni Render env dan olamiz
 import os
-BOT_TOKEN = os.getenv("8249661338:AAE74C4oeK0jA8tqtrcHYVtcqHm0lSJOkKY")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Logging
 logging.basicConfig(level=logging.INFO)
